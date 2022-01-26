@@ -79,7 +79,6 @@ void _limparCampos(){
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
                   enabledBorder: OutlineInputBorder(
-
                     borderSide: BorderSide(color: Colors.redAccent),
                     borderRadius: BorderRadius.circular(20),
                   ),
